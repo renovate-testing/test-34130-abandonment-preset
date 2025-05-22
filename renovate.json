@@ -1,4 +1,3 @@
 {
-  "abandonmentThreshold": "1 year",
-  "dependencyDashboard": true
+  "extends": ["config:best-practices"]
 }
